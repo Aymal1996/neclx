@@ -430,7 +430,7 @@ html {
             font-weight: 400;
         }
     }
-    iframe {
+    video {
         width: 100%;
         border-radius: 10px;
         -webkit-border-radius: 10px;
@@ -454,7 +454,7 @@ html {
     margin-bottom: 0px;
     border-radius: 0px;
     width: 100%;
-    height: 700px;
+    height: 750px;
     padding-top: 100px;
     position: relative;
     h1 {
@@ -466,12 +466,13 @@ html {
             color: #FC3467;
         }
     }
+    .table-responsive {
+        padding: 0 150px;
+    }
     .table td {
         border-bottom: 1px solid #dee2e6;
         border-top: none;
         vertical-align: middle;
-        /* Center text vertically */
-        width: 15% !important;
     }
     .border-radius23 {
         border-top-right-radius: 10px;
@@ -510,6 +511,9 @@ html {
 
 .sec-8 {
     margin-top: 80px;
+    #faq {
+        padding: 0 150px;
+    }
     .card {
         border: none;
     }

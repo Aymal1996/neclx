@@ -22,6 +22,12 @@
     .sec-7 {
         height: auto;
     }
+    .sec-7 .table-responsive {
+        padding: 0 50px;
+    }
+    .sec-8 #faq {
+        padding: 0 50px;
+    }
 }
 
 @media only screen and (max-width: 767.5px) {
@@ -47,6 +53,18 @@
     }
     #stickyButton {
         z-index: 999;
+    }
+    .sec-9 .right .pink {
+        width: 100%;
+    }
+    .sec-7 .table-responsive {
+        padding: 0 0px;
+    }
+    .sec-8 #faq {
+        padding: 0 0px;
+    }
+    .sec-7 .pink {
+        width: 100%;
     }
 }
 
