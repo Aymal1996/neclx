@@ -577,12 +577,13 @@ html {
 }
 
 .sec-9 {
-    background-image: url('../img/123389d2-cta-banner-720.jpg');
+    background-image: url('../img/new-bg.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
-    height: 537px;
-    padding-top: 100px;
+    background-position: bottom;
+    height: 637px;
+    padding-top: 150px;
+    margin-top: -50px;
     .right {
         height: 100%;
         display: flex;
