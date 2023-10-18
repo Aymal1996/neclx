@@ -433,7 +433,7 @@ html {
 
 .sec-7 {
   background: rgba(255, 255, 255, 0);
-  background-image: url("../img/56f47554-hero-bg_11hc0ew000000000000000.png");
+  background-image: url("../img/7ed8c0c1-us-vs-them-bg_11hc0ie000000000000000.png");
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: contain;
@@ -459,7 +459,7 @@ html {
   color: #FC3467;
 }
 .sec-7 .table-responsive {
-  padding: 0 150px;
+  padding: 0 180px;
 }
 .sec-7 .table td {
   border-bottom: 1px solid #dee2e6;
@@ -504,7 +504,7 @@ html {
   margin-top: 80px;
 }
 .sec-8 #faq {
-  padding: 0 150px;
+  padding: 0 180px;
 }
 .sec-8 .card {
   border: none;
